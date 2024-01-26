@@ -1,0 +1,13 @@
+- 👋 Hello, I’m Giovanna Oliveira;
+- 
+- 👀 I’m interested in learning programming, and gathering new skills. I love to create things;
+- 
+- 🌱 I’m currently learning Java Full Stack, currently learning security;
+-
+- 💞️ I’m looking to collaborate on diverser projects wich are able to make me solidify my skills, but alse learn new things;
+-
+- 📫 How to reach me: here, my emails giovannasoliveira58@gmail.com and giovannasoliveira.dev@gmail.com;
+-
+- 😄 Pronouns: She/They;
+-
+- ⚡ Fun fact: My first contact with any programming was fixing a stardew valley mod.
